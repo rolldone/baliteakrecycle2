@@ -1,0 +1,16 @@
+//const adalah final variable
+  const blablb {}
+
+//export adalah agar object dapat di akses dari luar
+  export class blablabla {}
+
+//export default adalah object ini sifatnya default
+  kalo mau "export default class" harus satu class aja 
+  kalo ternyata multiple class di dalam 1 file maka cukup
+  "export class" saja
+
+//React.Component adalah extends component dari module 'react'
+  class blablabla extends React.Component
+
+//import adalah menyediakan module yang di butuhkan
+  import React from "react";

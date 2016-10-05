@@ -1,0 +1,20 @@
+{
+  "name": "reactjstutorial",
+  "authors": [
+    "donny rolanda <donny.rolanda@gmail.com>"
+  ],
+  "description": "hanya untuk belajar",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "milligram": "^1.1.0"
+  }
+}
